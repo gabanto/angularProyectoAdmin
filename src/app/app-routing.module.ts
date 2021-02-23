@@ -1,7 +1,7 @@
 import { NgModule, Component } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-//Modulos
+//Rutas
 import { PagesRoutingModule } from './pages/pages.routing'; 
 import { AuthRoutingModule } from './auth/auth.routing';
 
