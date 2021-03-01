@@ -32,23 +32,6 @@ export class AccountSettingsComponent implements OnInit {
 
 
 
-  // checkCurrentTheme(){
-    
-
-  //   this.links.forEach(elem =>{
-
-  //     elem.classList.remove('working');
-  //     const btnTheme = elem.getAttribute('data-theme');
-  //     const btnThemeUrl = `./assets/css/colors/${btnTheme}.css`;
-  //     const currentTheme = this.linkTheme.getAttribute('href');
-
-  //     if(btnThemeUrl == currentTheme){
-  //       elem.classList.add('working');
-  //     }
-
-
-  //   });
-
-  // }
+  
 
 }
